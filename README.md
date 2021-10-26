@@ -28,3 +28,6 @@ MySQL, MS Access, Oracle, Sybase, Informix, Postgres and SQL Server.
 * Data Integrity is managed on several different tiers of data organization.
 * SQL constraints are used to manipulate data with a high degree of control.
 * 'Normal Forms' are used to normalize data organization within RDMS, making them ideal for collaborative work.
+
+# DataCamp Completion:
+![Intro to SQL](https://github.com/Nik0deemus/Week_6/blob/a736f4c97b3d5bf7541790a3fe8699a02ca02963/Intro%20to%20SQL.PNG)
